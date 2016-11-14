@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@localhost:/home/git/blog.git
+  repo: git@qcloud:/home/git/blog.git
   branch: master
