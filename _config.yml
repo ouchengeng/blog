@@ -7,7 +7,7 @@ title: 人体工程学码农
 subtitle:
 description: 主要分享人体工程学技术，偶尔说点大数据
 author: Amos Bird
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 favicon: /favicon.ico
 
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -72,3 +72,6 @@ deploy:
   type: git
   repo: git@qcloud:/home/git/blog.git
   branch: master
+
+duoshuo_shortname: wentropy
+baidu_analytics: 809eb5161a36f815b1011a04763d002f

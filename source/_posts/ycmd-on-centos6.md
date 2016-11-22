@@ -4,10 +4,13 @@ tags:
 - ycmd
 - centos6
 - spacemacs
+thumbnail: /images/ycmd.png
 categories: infra
 ---
 
 本文旨在合理安装ycmd于CentOS 6，非修改libc。
+
+<!-- more -->
 
 首先做用户隔离，将`/home/amos`替换为你的用户根。
 
